@@ -1,0 +1,80 @@
+body {
+     background-image: url(images/og.jpg);
+     font-size: 20px;
+     font-family: times,serif;
+}
+
+#titre {
+
+    width: 400px;
+	height: 70px;
+	margin: auto;
+	border-radius: 10px;
+	border: 2px solid silver;
+	font-size: 30px;
+	text-align: center;
+	color:  white;
+	font-family: times,serif;
+	font-weight: bold;
+	color: red;
+}
+
+#centre {
+    width: 86%;
+	height: 600px;
+	margin-right: 30px;
+	border-radius: 10px;
+	border: 2px solid silver;
+	padding-left: 15px;
+	float: right;
+	color: red;	
+}
+
+#bottom {
+    width: 35%;
+	height: auto;
+	margin: auto;
+	border-radius: 10px;
+	background-image: url(images/Triangle.jpg);
+	padding: 12px 10px 12px 10px;
+	margin-top: 30px;
+}
+
+#facebook {
+
+    font-size: 50px;
+    text-align : none;
+	color:#1a1aff;
+	margin-bottom: 100px;
+
+
+}
+
+#github {
+
+font-size: 50px;
+margin-bottom: 100px;
+color: #400080;
+text-align: none;
+
+}
+
+#projet {
+
+font-size: 50px;
+color: green;
+
+}
+
+#insta {
+
+font-size: 50px;
+color:#e600ac;
+
+}
+
+a {
+    font-size: 30px;
+    margin-left: 100px;
+    line-height: 100px;
+}
