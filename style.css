@@ -13,9 +13,7 @@ body {
 	border: 2px solid silver;
 	font-size: 30px;
 	text-align: center;
-	color:  white;
 	font-family: times,serif;
-	font-weight: bold;
 	color: red;
 }
 
@@ -77,4 +75,16 @@ a {
     font-size: 30px;
     margin-left: 100px;
     line-height: 100px;
+}
+
+#titre2 {
+	text-align: center;
+	font-size: 30px;
+	font-family: fantasy;
+	text-decoration: underline;
+}
+
+#text {
+	font-size: 20px;
+	font-family: serif;
 }
